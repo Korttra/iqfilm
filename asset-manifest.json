@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iqfilm/static/css/main.12daeb08.css",
+    "main.js": "/iqfilm/static/js/main.87b17a77.js",
+    "index.html": "/iqfilm/index.html",
+    "main.12daeb08.css.map": "/iqfilm/static/css/main.12daeb08.css.map",
+    "main.87b17a77.js.map": "/iqfilm/static/js/main.87b17a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12daeb08.css",
+    "static/js/main.87b17a77.js"
+  ]
+}
